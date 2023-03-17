@@ -1,0 +1,11 @@
+{
+	"idle_anim": "M Doof Idle",
+	"image": "Menu_Doof",
+	"position": [
+		130,
+		199
+	],
+	"flipX": false,
+	"scale": 0.5,
+	"confirm_anim": "M Doof Idle"
+}

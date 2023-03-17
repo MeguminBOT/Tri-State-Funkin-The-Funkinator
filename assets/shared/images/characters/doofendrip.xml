@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="doofendrip.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="doofdrip down0000" x="0" y="0" width="519" height="637" frameX="-418" frameY="-330" frameWidth="1242" frameHeight="1107"/>
+	<SubTexture name="doofdrip down0001" x="0" y="0" width="519" height="637" frameX="-418" frameY="-330" frameWidth="1242" frameHeight="1107"/>
+	<SubTexture name="doofdrip down0002" x="520" y="0" width="518" height="637" frameX="-419" frameY="-330" frameWidth="1242" frameHeight="1107"/>
+	<SubTexture name="doofdrip down0003" x="520" y="0" width="518" height="637" frameX="-419" frameY="-330" frameWidth="1242" frameHeight="1107"/>
+	<SubTexture name="doofdrip down0004" x="1039" y="0" width="517" height="637" frameX="-420" frameY="-330" frameWidth="1242" frameHeight="1107"/>
+	<SubTexture name="doofdrip down0005" x="1039" y="0" width="517" height="637" frameX="-420" frameY="-330" frameWidth="1242" frameHeight="1107"/>
+	<SubTexture name="doofdrip down0006" x="1557" y="0" width="1242" height="1107"/>
+	<SubTexture name="doofdrip down0007" x="1557" y="0" width="1242" height="1107"/>
+	<SubTexture name="doofdrip down0008" x="1557" y="0" width="1242" height="1107"/>
+	<SubTexture name="doofdrip down0009" x="1557" y="0" width="1242" height="1107"/>
+	<SubTexture name="doofdrip down0010" x="1557" y="0" width="1242" height="1107"/>
+	<SubTexture name="doofdrip down0011" x="1557" y="0" width="1242" height="1107"/>
+	<SubTexture name="doofdrip down0012" x="1557" y="0" width="1242" height="1107"/>
+	<SubTexture name="doofdrip down0013" x="1557" y="0" width="1242" height="1107"/>
+	<SubTexture name="doofdrip idle0000" x="2800" y="0" width="469" height="768" frameX="0" frameY="-2" frameWidth="469" frameHeight="770"/>
+	<SubTexture name="doofdrip idle0001" x="2800" y="0" width="469" height="768" frameX="0" frameY="-2" frameWidth="469" frameHeight="770"/>
+	<SubTexture name="doofdrip idle0002" x="3270" y="0" width="465" height="769" frameX="-4" frameY="-1" frameWidth="469" frameHeight="770"/>
+	<SubTexture name="doofdrip idle0003" x="3270" y="0" width="465" height="769" frameX="-4" frameY="-1" frameWidth="469" frameHeight="770"/>
+	<SubTexture name="doofdrip idle0004" x="3270" y="0" width="465" height="769" frameX="-4" frameY="-1" frameWidth="469" frameHeight="770"/>
+	<SubTexture name="doofdrip idle0005" x="3270" y="0" width="465" height="769" frameX="-4" frameY="-1" frameWidth="469" frameHeight="770"/>
+	<SubTexture name="doofdrip idle0006" x="0" y="1108" width="461" height="770" frameX="-7" frameY="0" frameWidth="469" frameHeight="770"/>
+	<SubTexture name="doofdrip idle0007" x="0" y="1108" width="461" height="770" frameX="-7" frameY="0" frameWidth="469" frameHeight="770"/>
+	<SubTexture name="doofdrip idle0008" x="462" y="1108" width="457" height="769" frameX="-10" frameY="-1" frameWidth="469" frameHeight="770"/>
+	<SubTexture name="doofdrip idle0009" x="462" y="1108" width="457" height="769" frameX="-10" frameY="-1" frameWidth="469" frameHeight="770"/>
+	<SubTexture name="doofdrip idle0010" x="462" y="1108" width="457" height="769" frameX="-10" frameY="-1" frameWidth="469" frameHeight="770"/>
+	<SubTexture name="doofdrip idle0011" x="462" y="1108" width="457" height="769" frameX="-10" frameY="-1" frameWidth="469" frameHeight="770"/>
+	<SubTexture name="doofdrip idle0012" x="462" y="1108" width="457" height="769" frameX="-10" frameY="-1" frameWidth="469" frameHeight="770"/>
+	<SubTexture name="doofdrip idle0013" x="462" y="1108" width="457" height="769" frameX="-10" frameY="-1" frameWidth="469" frameHeight="770"/>
+	<SubTexture name="doofdrip left0000" x="920" y="1108" width="602" height="712"/>
+	<SubTexture name="doofdrip left0001" x="920" y="1108" width="602" height="712"/>
+	<SubTexture name="doofdrip left0002" x="1523" y="1108" width="602" height="711" frameX="0" frameY="-1" frameWidth="602" frameHeight="712"/>
+	<SubTexture name="doofdrip left0003" x="1523" y="1108" width="602" height="711" frameX="0" frameY="-1" frameWidth="602" frameHeight="712"/>
+	<SubTexture name="doofdrip left0004" x="2126" y="1108" width="602" height="711" frameX="0" frameY="-1" frameWidth="602" frameHeight="712"/>
+	<SubTexture name="doofdrip left0005" x="2126" y="1108" width="602" height="711" frameX="0" frameY="-1" frameWidth="602" frameHeight="712"/>
+	<SubTexture name="doofdrip left0006" x="2729" y="1108" width="601" height="710" frameX="-1" frameY="-2" frameWidth="602" frameHeight="712"/>
+	<SubTexture name="doofdrip left0007" x="2729" y="1108" width="601" height="710" frameX="-1" frameY="-2" frameWidth="602" frameHeight="712"/>
+	<SubTexture name="doofdrip left0008" x="2729" y="1108" width="601" height="710" frameX="-1" frameY="-2" frameWidth="602" frameHeight="712"/>
+	<SubTexture name="doofdrip left0009" x="2729" y="1108" width="601" height="710" frameX="-1" frameY="-2" frameWidth="602" frameHeight="712"/>
+	<SubTexture name="doofdrip left0010" x="2729" y="1108" width="601" height="710" frameX="-1" frameY="-2" frameWidth="602" frameHeight="712"/>
+	<SubTexture name="doofdrip left0011" x="2729" y="1108" width="601" height="710" frameX="-1" frameY="-2" frameWidth="602" frameHeight="712"/>
+	<SubTexture name="doofdrip left0012" x="2729" y="1108" width="601" height="710" frameX="-1" frameY="-2" frameWidth="602" frameHeight="712"/>
+	<SubTexture name="doofdrip left0013" x="2729" y="1108" width="601" height="710" frameX="-1" frameY="-2" frameWidth="602" frameHeight="712"/>
+	<SubTexture name="doofdrip right0000" x="3331" y="1108" width="611" height="718" frameX="0" frameY="-4" frameWidth="611" frameHeight="722"/>
+	<SubTexture name="doofdrip right0001" x="3331" y="1108" width="611" height="718" frameX="0" frameY="-4" frameWidth="611" frameHeight="722"/>
+	<SubTexture name="doofdrip right0002" x="0" y="1879" width="608" height="721" frameX="0" frameY="-1" frameWidth="611" frameHeight="722"/>
+	<SubTexture name="doofdrip right0003" x="0" y="1879" width="608" height="721" frameX="0" frameY="-1" frameWidth="611" frameHeight="722"/>
+	<SubTexture name="doofdrip right0004" x="609" y="1879" width="607" height="721" frameX="0" frameY="-1" frameWidth="611" frameHeight="722"/>
+	<SubTexture name="doofdrip right0005" x="609" y="1879" width="607" height="721" frameX="0" frameY="-1" frameWidth="611" frameHeight="722"/>
+	<SubTexture name="doofdrip right0006" x="1217" y="1879" width="605" height="722" frameX="0" frameY="0" frameWidth="611" frameHeight="722"/>
+	<SubTexture name="doofdrip right0007" x="1217" y="1879" width="605" height="722" frameX="0" frameY="0" frameWidth="611" frameHeight="722"/>
+	<SubTexture name="doofdrip right0008" x="1217" y="1879" width="605" height="722" frameX="0" frameY="0" frameWidth="611" frameHeight="722"/>
+	<SubTexture name="doofdrip right0009" x="1217" y="1879" width="605" height="722" frameX="0" frameY="0" frameWidth="611" frameHeight="722"/>
+	<SubTexture name="doofdrip right0010" x="1217" y="1879" width="605" height="722" frameX="0" frameY="0" frameWidth="611" frameHeight="722"/>
+	<SubTexture name="doofdrip right0011" x="1217" y="1879" width="605" height="722" frameX="0" frameY="0" frameWidth="611" frameHeight="722"/>
+	<SubTexture name="doofdrip right0012" x="1217" y="1879" width="605" height="722" frameX="0" frameY="0" frameWidth="611" frameHeight="722"/>
+	<SubTexture name="doofdrip right0013" x="1217" y="1879" width="605" height="722" frameX="0" frameY="0" frameWidth="611" frameHeight="722"/>
+	<SubTexture name="doofdrip up0000" x="1823" y="1879" width="572" height="780" frameX="-5" frameY="0" frameWidth="578" frameHeight="780"/>
+	<SubTexture name="doofdrip up0001" x="1823" y="1879" width="572" height="780" frameX="-5" frameY="0" frameWidth="578" frameHeight="780"/>
+	<SubTexture name="doofdrip up0002" x="2396" y="1879" width="574" height="779" frameX="-4" frameY="-1" frameWidth="578" frameHeight="780"/>
+	<SubTexture name="doofdrip up0003" x="2396" y="1879" width="574" height="779" frameX="-4" frameY="-1" frameWidth="578" frameHeight="780"/>
+	<SubTexture name="doofdrip up0004" x="2971" y="1879" width="576" height="778" frameX="-2" frameY="-2" frameWidth="578" frameHeight="780"/>
+	<SubTexture name="doofdrip up0005" x="2971" y="1879" width="576" height="778" frameX="-2" frameY="-2" frameWidth="578" frameHeight="780"/>
+	<SubTexture name="doofdrip up0006" x="0" y="2660" width="576" height="777" frameX="0" frameY="-3" frameWidth="578" frameHeight="780"/>
+	<SubTexture name="doofdrip up0007" x="0" y="2660" width="576" height="777" frameX="0" frameY="-3" frameWidth="578" frameHeight="780"/>
+	<SubTexture name="doofdrip up0008" x="0" y="2660" width="576" height="777" frameX="0" frameY="-3" frameWidth="578" frameHeight="780"/>
+	<SubTexture name="doofdrip up0009" x="0" y="2660" width="576" height="777" frameX="0" frameY="-3" frameWidth="578" frameHeight="780"/>
+	<SubTexture name="doofdrip up0010" x="0" y="2660" width="576" height="777" frameX="0" frameY="-3" frameWidth="578" frameHeight="780"/>
+	<SubTexture name="doofdrip up0011" x="0" y="2660" width="576" height="777" frameX="0" frameY="-3" frameWidth="578" frameHeight="780"/>
+	<SubTexture name="doofdrip up0012" x="0" y="2660" width="576" height="777" frameX="0" frameY="-3" frameWidth="578" frameHeight="780"/>
+	<SubTexture name="doofdrip up0013" x="0" y="2660" width="576" height="777" frameX="0" frameY="-3" frameWidth="578" frameHeight="780"/>
+</TextureAtlas>

@@ -1,0 +1,1626 @@
+{
+	"song": {
+		"events": [
+			[
+				12053.5714285714,
+				[
+					[
+						"Change Icon",
+						"phineasferb",
+						""
+					]
+				]
+			],
+			[
+				12142.8571428571,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				12500,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				12857.1428571429,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				13214.2857142857,
+				[
+					[
+						"Change Icon",
+						"phineas",
+						""
+					]
+				]
+			],
+			[
+				35982.1428571429,
+				[
+					[
+						"Change Icon",
+						"phineasferb",
+						""
+					]
+				]
+			],
+			[
+				36071.4285714286,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				36428.5714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				36607.1428571429,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				36785.7142857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				36964.2857142857,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				37142.8571428571,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				37321.4285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				37500,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				38035.7142857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				38214.2857142857,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				38571.4285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				38928.5714285714,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				39285.7142857143,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				40000,
+				[
+					[
+						"Change Icon",
+						"phineas",
+						""
+					]
+				]
+			],
+			[
+				47232.1428571428,
+				[
+					[
+						"Change Icon",
+						"phineasferb",
+						""
+					]
+				]
+			],
+			[
+				47321.4285714286,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				47500,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				47857.1428571428,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				48035.7142857143,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				48214.2857142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				48392.8571428571,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				48750,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				49285.7142857143,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				49642.8571428571,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				50000,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				50357.1428571428,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				50714.2857142857,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				51071.4285714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				51428.5714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				51607.1428571428,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				52142.8571428571,
+				[
+					[
+						"Change Icon",
+						"phineas",
+						""
+					]
+				]
+			],
+			[
+				57232.1428571428,
+				[
+					[
+						"Change Icon",
+						"phineasferb",
+						""
+					]
+				]
+			],
+			[
+				57321.4285714286,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				57500,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				57678.5714285714,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				57857.1428571428,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				58035.7142857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				58214.2857142857,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				58392.8571428571,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				58571.4285714286,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				58928.5714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				59642.8571428571,
+				[
+					[
+						"Change Icon",
+						"phineas",
+						""
+					]
+				]
+			],
+			[
+				61875,
+				[
+					[
+						"Change Icon",
+						"ferb",
+						""
+					]
+				]
+			],
+			[
+				84553.5714285715,
+				[
+					[
+						"Change Icon",
+						"phineasferb",
+						""
+					]
+				]
+			],
+			[
+				84642.8571428571,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				85000,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				85178.5714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				85357.1428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				85535.7142857143,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				85714.2857142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				85892.8571428571,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				86071.4285714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				86607.1428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				86785.7142857143,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				87142.8571428571,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				87500,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				87857.1428571429,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				88571.4285714287,
+				[
+					[
+						"Change Icon",
+						"phineas",
+						""
+					]
+				]
+			],
+			[
+				95803.5714285715,
+				[
+					[
+						"Change Icon",
+						"phineasferb",
+						""
+					]
+				]
+			],
+			[
+				95892.8571428571,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				96071.4285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				96428.5714285714,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				96607.1428571428,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				96785.7142857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				96964.2857142857,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				97321.4285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				97857.1428571428,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				98214.2857142857,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				98571.4285714286,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				98928.5714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				99285.7142857143,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				99642.8571428571,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				100000,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				100178.571428571,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				100714.285714286,
+				[
+					[
+						"Change Icon",
+						"phineas",
+						""
+					]
+				]
+			],
+			[
+				105803.571428572,
+				[
+					[
+						"Change Icon",
+						"phineasferb",
+						""
+					]
+				]
+			],
+			[
+				105892.857142857,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				106071.428571429,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				106250,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				106428.571428571,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				106607.142857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				106785.714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				106964.285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				107142.857142857,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				107500,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				108214.285714286,
+				[
+					[
+						"Change Icon",
+						"phineas",
+						""
+					]
+				]
+			],
+			[
+				133125,
+				[
+					[
+						"Change Icon",
+						"ferb",
+						""
+					]
+				]
+			],
+			[
+				141696.428571429,
+				[
+					[
+						"Change Icon",
+						"phineasferb",
+						""
+					]
+				]
+			],
+			[
+				141785.714285714,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				142142.857142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				142321.428571429,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				142500,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				142678.571428571,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				142857.142857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				143035.714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				143214.285714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				143750,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				143928.571428571,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				144285.714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				144642.857142857,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				145000,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				145714.285714286,
+				[
+					[
+						"Change Icon",
+						"phineas",
+						""
+					]
+				]
+			],
+			[
+				152946.428571429,
+				[
+					[
+						"Change Icon",
+						"phineasferb",
+						""
+					]
+				]
+			],
+			[
+				153035.714285714,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				153214.285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				153571.428571429,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				153750,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				153928.571428571,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				154107.142857143,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				154464.285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				155000,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				155357.142857143,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				155714.285714286,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				156071.428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				156428.571428571,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				156785.714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				157142.857142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				157321.428571429,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				157857.142857143,
+				[
+					[
+						"Change Icon",
+						"phineas",
+						""
+					]
+				]
+			],
+			[
+				162946.428571429,
+				[
+					[
+						"Change Icon",
+						"phineasferb",
+						""
+					]
+				]
+			],
+			[
+				163035.714285714,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				163214.285714286,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				163392.857142857,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				163571.428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				163750,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				163928.571428571,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				164107.142857143,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				164285.714285714,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				164642.857142857,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				165357.142857143,
+				[
+					[
+						"Change Icon",
+						"phineas",
+						""
+					]
+				]
+			],
+			[
+				170267.857142857,
+				[
+					[
+						"Change Icon",
+						"phineasferb",
+						""
+					]
+				]
+			],
+			[
+				170357.142857143,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				170714.285714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				170892.857142857,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				171071.428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				171250,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				171428.571428571,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				171607.142857143,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				171785.714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				172321.428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				172500,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				172857.142857143,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				173214.285714286,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				173571.428571429,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				174285.714285714,
+				[
+					[
+						"Change Icon",
+						"phineas",
+						""
+					]
+				]
+			],
+			[
+				180089.285714286,
+				[
+					[
+						"Change Icon",
+						"phineasferb",
+						""
+					]
+				]
+			],
+			[
+				180178.571428571,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				180357.142857143,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				180535.714285714,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				180714.285714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				180892.857142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				181071.428571429,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				181250,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				181428.571428571,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				181785.714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				182500,
+				[
+					[
+						"Change Icon",
+						"phineas",
+						""
+					]
+				]
+			]
+		]
+	}
+}

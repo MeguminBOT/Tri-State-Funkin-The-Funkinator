@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CagedAgentP-old.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PerryBop0000" x="0" y="0" width="464" height="441"/>
+	<SubTexture name="PerryBop0001" x="0" y="0" width="464" height="441"/>
+	<SubTexture name="PerryBop0002" x="464" y="0" width="448" height="441" frameX="-16" frameY="0" frameWidth="464" frameHeight="441"/>
+	<SubTexture name="PerryBop0003" x="464" y="0" width="448" height="441" frameX="-16" frameY="0" frameWidth="464" frameHeight="441"/>
+	<SubTexture name="PerryBop0004" x="912" y="0" width="448" height="441" frameX="-16" frameY="0" frameWidth="464" frameHeight="441"/>
+	<SubTexture name="PerryBop0005" x="912" y="0" width="448" height="441" frameX="-16" frameY="0" frameWidth="464" frameHeight="441"/>
+	<SubTexture name="PerryBop0006" x="912" y="0" width="448" height="441" frameX="-16" frameY="0" frameWidth="464" frameHeight="441"/>
+	<SubTexture name="PerryBop0007" x="912" y="0" width="448" height="441" frameX="-16" frameY="0" frameWidth="464" frameHeight="441"/>
+	<SubTexture name="PerryBop0008" x="912" y="0" width="448" height="441" frameX="-16" frameY="0" frameWidth="464" frameHeight="441"/>
+	<SubTexture name="PerryBop0009" x="912" y="0" width="448" height="441" frameX="-16" frameY="0" frameWidth="464" frameHeight="441"/>
+	<SubTexture name="PerryBop0010" x="912" y="0" width="448" height="441" frameX="-16" frameY="0" frameWidth="464" frameHeight="441"/>
+	<SubTexture name="PerryBop0011" x="912" y="0" width="448" height="441" frameX="-16" frameY="0" frameWidth="464" frameHeight="441"/>
+	<SubTexture name="PerryBop0012" x="912" y="0" width="448" height="441" frameX="-16" frameY="0" frameWidth="464" frameHeight="441"/>
+	<SubTexture name="PerryBop0013" x="912" y="0" width="448" height="441" frameX="-16" frameY="0" frameWidth="464" frameHeight="441"/>
+</TextureAtlas>

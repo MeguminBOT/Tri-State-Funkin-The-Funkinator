@@ -1,0 +1,234 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ferb_left",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				9
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "ferb_left_miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				9
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ferb_down",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-5
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "ferb_down_miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				40
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ferb_up",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-58,
+				23
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "ferb_up_miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				-18
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "ferb_right_miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-35,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ferb_idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ferb_right",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ferb",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "ferb",
+	"flip_x": false,
+	"healthbar_colors": [
+		113,
+		222,
+		150
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-140,
+				-82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "doof down"
+		},
+		{
+			"offsets": [
+				105,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "doof up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-32
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "doof right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				123,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "doof left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "doof idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/doofenshmirtz",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "doof",
+	"flip_x": false,
+	"healthbar_colors": [
+		182,
+		0,
+		219
+	],
+	"camera_position": [
+		150,
+		100
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

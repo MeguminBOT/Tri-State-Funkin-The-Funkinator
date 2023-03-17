@@ -1,0 +1,44 @@
+{
+	"storyName": "Doofenshmirtz Week 1",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "doofLab",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"Doofenshmirtz",
+		"bfFunkinator",
+		"gfFunkinator"
+	],
+	"songs": [
+		[
+			"Funkinator",
+			"doof",
+			[
+				75,
+				0,
+				91
+			]
+		],
+		[
+			"Barsinator",
+			"doof",
+			[
+				75,
+				0,
+				91
+			]
+		],
+		[
+			"Rapinator",
+			"doof",
+			[
+				75,
+				0,
+				91
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "doof-week1"
+}

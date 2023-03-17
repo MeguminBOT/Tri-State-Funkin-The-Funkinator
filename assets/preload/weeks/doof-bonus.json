@@ -1,0 +1,34 @@
+{
+	"storyName": "Doofenshmirtz Freeplay",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "doof-week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"doofenshmirtz",
+		"bf",
+		"gf"
+	],
+	"songs": [
+        [
+			"dripinator",
+			"doof",
+			[
+				75,
+				0,
+				91
+			]
+		],
+		[
+			"sexinator",
+			"doof",
+			[
+				75,
+				0,
+				91
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "doof-bonus"
+}

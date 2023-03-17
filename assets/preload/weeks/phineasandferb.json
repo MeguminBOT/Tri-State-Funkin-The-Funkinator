@@ -1,0 +1,25 @@
+{
+	"storyName": "Phineas and Ferb",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "doof-bonus",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"PhineasFerb",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"104-days",
+			"phineasferb",
+			[
+				113,
+				222,
+				150
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "phineasandferb"
+}

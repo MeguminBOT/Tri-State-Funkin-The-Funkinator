@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="doofenshmirtz.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="doof down 10000" x="0" y="0" width="576" height="839" frameX="0" frameY="-25" frameWidth="585" frameHeight="864"/>
+	<SubTexture name="doof down 10001" x="0" y="0" width="576" height="839" frameX="0" frameY="-25" frameWidth="585" frameHeight="864"/>
+	<SubTexture name="doof down 10002" x="608" y="0" width="575" height="859" frameX="-10" frameY="-5" frameWidth="585" frameHeight="864"/>
+	<SubTexture name="doof down 10003" x="608" y="0" width="575" height="859" frameX="-10" frameY="-5" frameWidth="585" frameHeight="864"/>
+	<SubTexture name="doof down 10004" x="1215" y="0" width="573" height="864" frameX="-12" frameY="0" frameWidth="585" frameHeight="864"/>
+	<SubTexture name="doof down 10005" x="1215" y="0" width="573" height="864" frameX="-12" frameY="0" frameWidth="585" frameHeight="864"/>
+	<SubTexture name="doof down 10006" x="1215" y="0" width="573" height="864" frameX="-12" frameY="0" frameWidth="585" frameHeight="864"/>
+	<SubTexture name="doof down 10007" x="1215" y="0" width="573" height="864" frameX="-12" frameY="0" frameWidth="585" frameHeight="864"/>
+	<SubTexture name="doof down 10008" x="1215" y="0" width="573" height="864" frameX="-12" frameY="0" frameWidth="585" frameHeight="864"/>
+	<SubTexture name="doof down 10009" x="1215" y="0" width="573" height="864" frameX="-12" frameY="0" frameWidth="585" frameHeight="864"/>
+	<SubTexture name="doof down 10010" x="1215" y="0" width="573" height="864" frameX="-12" frameY="0" frameWidth="585" frameHeight="864"/>
+	<SubTexture name="doof down 10011" x="1215" y="0" width="573" height="864" frameX="-12" frameY="0" frameWidth="585" frameHeight="864"/>
+	<SubTexture name="doof down 10012" x="1215" y="0" width="573" height="864" frameX="-12" frameY="0" frameWidth="585" frameHeight="864"/>
+	<SubTexture name="doof down 10013" x="1215" y="0" width="573" height="864" frameX="-12" frameY="0" frameWidth="585" frameHeight="864"/>
+	<SubTexture name="doof down 10014" x="1215" y="0" width="573" height="864" frameX="-12" frameY="0" frameWidth="585" frameHeight="864"/>
+	<SubTexture name="doof idle 10000" x="1820" y="0" width="577" height="896" frameX="0" frameY="-30" frameWidth="577" frameHeight="926"/>
+	<SubTexture name="doof idle 10001" x="1820" y="0" width="577" height="896" frameX="0" frameY="-30" frameWidth="577" frameHeight="926"/>
+	<SubTexture name="doof idle 10002" x="2429" y="0" width="533" height="912" frameX="-21" frameY="-14" frameWidth="577" frameHeight="926"/>
+	<SubTexture name="doof idle 10003" x="2429" y="0" width="533" height="912" frameX="-21" frameY="-14" frameWidth="577" frameHeight="926"/>
+	<SubTexture name="doof idle 10004" x="2994" y="0" width="515" height="921" frameX="-27" frameY="-5" frameWidth="577" frameHeight="926"/>
+	<SubTexture name="doof idle 10005" x="2994" y="0" width="515" height="921" frameX="-27" frameY="-5" frameWidth="577" frameHeight="926"/>
+	<SubTexture name="doof idle 10006" x="3541" y="0" width="502" height="925" frameX="-28" frameY="-1" frameWidth="577" frameHeight="926"/>
+	<SubTexture name="doof idle 10007" x="3541" y="0" width="502" height="925" frameX="-28" frameY="-1" frameWidth="577" frameHeight="926"/>
+	<SubTexture name="doof idle 10008" x="0" y="957" width="500" height="926" frameX="-28" frameY="0" frameWidth="577" frameHeight="926"/>
+	<SubTexture name="doof idle 10009" x="0" y="957" width="500" height="926" frameX="-28" frameY="0" frameWidth="577" frameHeight="926"/>
+	<SubTexture name="doof idle 10010" x="0" y="957" width="500" height="926" frameX="-28" frameY="0" frameWidth="577" frameHeight="926"/>
+	<SubTexture name="doof idle 10011" x="0" y="957" width="500" height="926" frameX="-28" frameY="0" frameWidth="577" frameHeight="926"/>
+	<SubTexture name="doof idle 10012" x="0" y="957" width="500" height="926" frameX="-28" frameY="0" frameWidth="577" frameHeight="926"/>
+	<SubTexture name="doof idle 10013" x="0" y="957" width="500" height="926" frameX="-28" frameY="0" frameWidth="577" frameHeight="926"/>
+	<SubTexture name="doof idle 10014" x="0" y="957" width="500" height="926" frameX="-28" frameY="0" frameWidth="577" frameHeight="926"/>
+	<SubTexture name="doof left 10000" x="532" y="957" width="445" height="912" frameX="0" frameY="-7" frameWidth="470" frameHeight="919"/>
+	<SubTexture name="doof left 10001" x="532" y="957" width="445" height="912" frameX="0" frameY="-7" frameWidth="470" frameHeight="919"/>
+	<SubTexture name="doof left 10002" x="1009" y="957" width="452" height="916" frameX="-12" frameY="-3" frameWidth="470" frameHeight="919"/>
+	<SubTexture name="doof left 10003" x="1009" y="957" width="452" height="916" frameX="-12" frameY="-3" frameWidth="470" frameHeight="919"/>
+	<SubTexture name="doof left 10004" x="1493" y="957" width="453" height="919" frameX="-17" frameY="0" frameWidth="470" frameHeight="919"/>
+	<SubTexture name="doof left 10005" x="1493" y="957" width="453" height="919" frameX="-17" frameY="0" frameWidth="470" frameHeight="919"/>
+	<SubTexture name="doof left 10006" x="1493" y="957" width="453" height="919" frameX="-17" frameY="0" frameWidth="470" frameHeight="919"/>
+	<SubTexture name="doof left 10007" x="1493" y="957" width="453" height="919" frameX="-17" frameY="0" frameWidth="470" frameHeight="919"/>
+	<SubTexture name="doof left 10008" x="1493" y="957" width="453" height="919" frameX="-17" frameY="0" frameWidth="470" frameHeight="919"/>
+	<SubTexture name="doof left 10009" x="1493" y="957" width="453" height="919" frameX="-17" frameY="0" frameWidth="470" frameHeight="919"/>
+	<SubTexture name="doof left 10010" x="1493" y="957" width="453" height="919" frameX="-17" frameY="0" frameWidth="470" frameHeight="919"/>
+	<SubTexture name="doof left 10011" x="1493" y="957" width="453" height="919" frameX="-17" frameY="0" frameWidth="470" frameHeight="919"/>
+	<SubTexture name="doof left 10012" x="1493" y="957" width="453" height="919" frameX="-17" frameY="0" frameWidth="470" frameHeight="919"/>
+	<SubTexture name="doof left 10013" x="1493" y="957" width="453" height="919" frameX="-17" frameY="0" frameWidth="470" frameHeight="919"/>
+	<SubTexture name="doof left 10014" x="1493" y="957" width="453" height="919" frameX="-17" frameY="0" frameWidth="470" frameHeight="919"/>
+	<SubTexture name="doof right 10000" x="1978" y="957" width="639" height="929" frameX="-28" frameY="0" frameWidth="667" frameHeight="929"/>
+	<SubTexture name="doof right 10001" x="1978" y="957" width="639" height="929" frameX="-28" frameY="0" frameWidth="667" frameHeight="929"/>
+	<SubTexture name="doof right 10002" x="2649" y="957" width="631" height="923" frameX="-7" frameY="-6" frameWidth="667" frameHeight="929"/>
+	<SubTexture name="doof right 10003" x="2649" y="957" width="631" height="923" frameX="-7" frameY="-6" frameWidth="667" frameHeight="929"/>
+	<SubTexture name="doof right 10004" x="3312" y="957" width="625" height="923" frameX="0" frameY="-6" frameWidth="667" frameHeight="929"/>
+	<SubTexture name="doof right 10005" x="3312" y="957" width="625" height="923" frameX="0" frameY="-6" frameWidth="667" frameHeight="929"/>
+	<SubTexture name="doof right 10006" x="3312" y="957" width="625" height="923" frameX="0" frameY="-6" frameWidth="667" frameHeight="929"/>
+	<SubTexture name="doof right 10007" x="3312" y="957" width="625" height="923" frameX="0" frameY="-6" frameWidth="667" frameHeight="929"/>
+	<SubTexture name="doof right 10008" x="3312" y="957" width="625" height="923" frameX="0" frameY="-6" frameWidth="667" frameHeight="929"/>
+	<SubTexture name="doof right 10009" x="3312" y="957" width="625" height="923" frameX="0" frameY="-6" frameWidth="667" frameHeight="929"/>
+	<SubTexture name="doof right 10010" x="3312" y="957" width="625" height="923" frameX="0" frameY="-6" frameWidth="667" frameHeight="929"/>
+	<SubTexture name="doof right 10011" x="3312" y="957" width="625" height="923" frameX="0" frameY="-6" frameWidth="667" frameHeight="929"/>
+	<SubTexture name="doof right 10012" x="3312" y="957" width="625" height="923" frameX="0" frameY="-6" frameWidth="667" frameHeight="929"/>
+	<SubTexture name="doof right 10013" x="3312" y="957" width="625" height="923" frameX="0" frameY="-6" frameWidth="667" frameHeight="929"/>
+	<SubTexture name="doof right 10014" x="3312" y="957" width="625" height="923" frameX="0" frameY="-6" frameWidth="667" frameHeight="929"/>
+	<SubTexture name="doof up 10000" x="0" y="1918" width="544" height="945"/>
+	<SubTexture name="doof up 10001" x="0" y="1918" width="544" height="945"/>
+	<SubTexture name="doof up 10002" x="576" y="1918" width="516" height="942" frameX="-25" frameY="-2" frameWidth="544" frameHeight="945"/>
+	<SubTexture name="doof up 10003" x="576" y="1918" width="516" height="942" frameX="-25" frameY="-2" frameWidth="544" frameHeight="945"/>
+	<SubTexture name="doof up 10004" x="1124" y="1918" width="513" height="939" frameX="-27" frameY="-5" frameWidth="544" frameHeight="945"/>
+	<SubTexture name="doof up 10005" x="1124" y="1918" width="513" height="939" frameX="-27" frameY="-5" frameWidth="544" frameHeight="945"/>
+	<SubTexture name="doof up 10006" x="1124" y="1918" width="513" height="939" frameX="-27" frameY="-5" frameWidth="544" frameHeight="945"/>
+	<SubTexture name="doof up 10007" x="1124" y="1918" width="513" height="939" frameX="-27" frameY="-5" frameWidth="544" frameHeight="945"/>
+	<SubTexture name="doof up 10008" x="1124" y="1918" width="513" height="939" frameX="-27" frameY="-5" frameWidth="544" frameHeight="945"/>
+	<SubTexture name="doof up 10009" x="1124" y="1918" width="513" height="939" frameX="-27" frameY="-5" frameWidth="544" frameHeight="945"/>
+	<SubTexture name="doof up 10010" x="1124" y="1918" width="513" height="939" frameX="-27" frameY="-5" frameWidth="544" frameHeight="945"/>
+	<SubTexture name="doof up 10011" x="1124" y="1918" width="513" height="939" frameX="-27" frameY="-5" frameWidth="544" frameHeight="945"/>
+	<SubTexture name="doof up 10012" x="1124" y="1918" width="513" height="939" frameX="-27" frameY="-5" frameWidth="544" frameHeight="945"/>
+	<SubTexture name="doof up 10013" x="1124" y="1918" width="513" height="939" frameX="-27" frameY="-5" frameWidth="544" frameHeight="945"/>
+	<SubTexture name="doof up 10014" x="1124" y="1918" width="513" height="939" frameX="-27" frameY="-5" frameWidth="544" frameHeight="945"/>
+</TextureAtlas>

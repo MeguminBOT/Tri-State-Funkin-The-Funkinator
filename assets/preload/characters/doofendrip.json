@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				407,
+				215
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "doofdrip down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				77,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "doofdrip up"
+		},
+		{
+			"offsets": [
+				39,
+				-86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "doofdrip left"
+		},
+		{
+			"offsets": [
+				-66,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "doofdrip right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "doofdrip idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/doofendrip",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "doof",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		118,
+		162
+	],
+	"camera_position": [
+		-350,
+		-200
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}
